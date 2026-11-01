@@ -1,0 +1,5 @@
+__pycache__/
+checkpoints/
+spark-warehouse/
+jars/*.jar
+!jars/no-permission-local-fs.jar
